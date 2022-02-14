@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=AWADHAMBIKA&style=flat-square&color=blue" alt=""/>
   <br>
   <h1>
-  hey there
+  Hey! there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <br>
@@ -20,7 +20,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
 - 👋 Hi! I’m Binit, working at Rocket Software Inc.
 
